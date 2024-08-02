@@ -19,7 +19,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Nagaraju+Ramavath+😉;I'm+Self-taught+Programmer;I+am+a+Full+Stack+Developer;"></a>
 </h1>
 
-  <img align="right" alt="GIF" src="https://github.com/ramavath-nagaraju/ramavath-nagaraju/blob/main/new-Converted.gif?raw=true" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="400" height="250" />
   
 - 🔭 I’m currently learning DSA with C++
   
@@ -42,7 +42,6 @@
 <div>
 Leetcode:
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
