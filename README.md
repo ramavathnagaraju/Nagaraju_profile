@@ -19,10 +19,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Nagaraju+Ramavath+😉;I'm+Self-taught+Programmer;I+am+a+Full+Stack+Developer;"></a>
 </h1>
 
-  [![MasterHead](![alt text](image.png))]()
-  <a src="https://github.com/ramavathnagaraju/ramavathnagaraju"/raw/main/![alt text](new-Converted.gif).svg
-
-
 - 🔭 I’m currently learning DSA with C++
   
 - 💬 Ask me about Web Development
