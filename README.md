@@ -1,4 +1,4 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
+[![MasterHead](00086-desk-anim-v0.3.jpg)]()
 <h1 align="center">
   Hi, Welcome to Nagaraju Ramavath[NIT JAIPUR] profile!
     <p align="center">
@@ -11,7 +11,7 @@
 <a style="" href="https://github.com/nagaraju036">
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/161068987?v=4" alt="Ramavath Nagaraju" height="160" width="160" /> </p>
 </a>
-<a src="https://github.com/ramavathnagaraju/ramavathnagaraju"/raw/main/00086-desk-anim-v0.3.gif
+<a src="https://github.com/ramavathnagaraju/ramavathnagaraju"/raw/main/00086-desk-anim-v0.3.jpg
 
 </h1>
 
@@ -82,7 +82,6 @@ Conncets with me:
 [<img src="https://img.shields.io/badge/-contact.nagarajucse036@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.nagarajucse036@gmail.com)
 [<img src="https://img.shields.io/badge/-@nagaraj_rathod141_-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/nagaraj_rathod141/)
 [<img src="https://img.shields.io/github/followers/nagaraju036?label=nagaraju036&style=social" height="32" title="Follow me" />](https://github.com/ramavathnagaraju)
-
 
 
 <br><br>
