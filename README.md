@@ -11,7 +11,7 @@
 <a style="" href="https://github.com/nagaraju036">
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/161068987?v=4" alt="Ramavath Nagaraju" height="160" width="160" /> </p>
 </a>
-<a src="https://github.com/ramavathnagaraju/ramavathnagaraju"/raw/main/00086-desk-anim-v0.3.jpg
+<a src="https://github.com/ramavathnagaraju/ramavathnagaraju"/raw/main/00086-desk-anim-v0.3.svg
 
 </h1>
 
