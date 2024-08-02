@@ -1,4 +1,4 @@
-[![MasterHead](00086-desk-anim-v0.3.jpg)]()
+[![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h1 align="center">
   Hi, Welcome to Nagaraju Ramavath[NIT JAIPUR] profile!
     <p align="center">
