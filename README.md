@@ -38,7 +38,7 @@
   <h1 align="center">⚙ Languages and Tools</h1>
 </p>
 <div> 
-Leetcode:
+<a href="https://leetcode.com/u/nagarajucse036/"<a/>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
