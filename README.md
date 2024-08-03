@@ -41,6 +41,7 @@
   <h1 align ="center">
     <h1 align ="cenetr"> Coding Profiles</h1>
     <a href="https://leetcode.com/u/nagarajucse036/"</a>
+      
 Leetcode:
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
